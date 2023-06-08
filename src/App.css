@@ -1,0 +1,16 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+.wraping {
+  display: flex;
+  flex-wrap: wrap;
+}
+.making_in_to_the_side {
+  display: grid;
+  grid-template-columns: 20%, 20%, 20%, 20%, 20%;
+}
+
+.seethrough {
+  color: bisque;
+}
